@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    color: black;
+  }
+  body.dark-mode form {
+    background-color: rgb(45,45,45);
+    color: white;
+  }
+  body.dark-mode .back {
+    background-color: rgb(45,45,45);
+    color: white;
+  }
+  .dark-mode {
+    background-color: rgb(25, 25, 25);
+    color: white;
+  }
+  body.light-mode form {
+    background-color: white;
+    color: black;
+  }
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+  body.blue-mode form {
+    background-color: rgb(4, 36, 104);
+    color: white;
+  }
+  body.blue-mode .back {
+    background-color: rgb(4, 36, 104);
+    color: white;
+  }
+  .blue-mode {
+    background-color: rgb(2, 25, 75);
+    color: white;
+  }
